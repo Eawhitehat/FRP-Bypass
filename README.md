@@ -22,7 +22,7 @@ Linkedin : /in/eawhitehat/
 
 6- Ensuite -> "About switch acces for Android"
 
-7- Nous avons maintenant une video video youtube, cliquer sur l'icone "partager de la video", ensuite dans : "..."
+7- Nous avons maintenant une video youtube, cliquer sur l'icone "partager de la video", ensuite dans : "..."
 
 8- Une fois cela fait, on clique à droite sur le compte, puis ensuite sur "Terms & Privacy Policy"
 
